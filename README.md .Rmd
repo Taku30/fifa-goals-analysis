@@ -1,0 +1,54 @@
+---
+title: "README.md"
+author: "Taku Takahashi"
+date: "2025-07-15"
+output: html_document
+---
+
+# ⚽ FIFA World Cup Goal Analysis
+
+This project explores historical trends in goal scoring during the FIFA World Cup, using match data from 1930 to 2018. The goal is to uncover patterns across decades, match stages, and attendance levels, and identify which national teams have been the most successful offensively.
+
+## 📊 Project Highlights
+
+- 📈 **Average goals per match** from 1930–2018
+- 🏟️ **Goal distribution by match stage** (Finals, Semi-finals, Quarter-finals)
+- 👥 **Impact of attendance** on total goals per match
+- 🥇 **Top-scoring national teams** in World Cup history
+
+## 📁 Project Structure
+
+## 📚 Data Source
+
+- [FIFA World Cup Matches Dataset (Kaggle)](https://www.kaggle.com/datasets/abecklas/fifa-world-cup)
+
+## 📄 Tools Used
+
+- R & Tidyverse
+- Quarto for reproducible reporting
+- ggplot2 for visualization
+
+## 🔍 Key Insights
+
+- ⚽ Goal scoring has fluctuated by era, dipping in the 1990s and rising slightly in recent tournaments.
+- 🏆 Finals tend to be more defensively played, with fewer goals than quarter-finals.
+- 👥 No strong linear correlation between attendance and goals, but high-attendance matches tend to be more high-profile.
+- 🇧🇷 Brazil, 🇩🇪 Germany, and 🇦🇷 Argentina are among the top-scoring teams in tournament history.
+
+## 🚀 Future Work Ideas
+
+- Analyze **goal timing** (e.g. early vs late goals)
+- Incorporate **xG (expected goals)** if available
+- Study **tactical or formation impacts** on scoring
+- Compare **goal trends by continent or region**
+
+## 💼 Author
+
+Taku Takahashi  
+B.S. in Data Science, American University  
+GitHub: [@Taku30](https://github.com/Taku30)
+
+---
+
+Feel free to use or adapt this project in your own learning or portfolio work. If you found this useful, leave a ⭐!
+
